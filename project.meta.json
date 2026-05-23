@@ -1,0 +1,55 @@
+﻿{
+    "$schema":  "../project.meta.schema.json",
+    "schemaVersion":  1,
+    "name":  "ai_tech_stack_course",
+    "title":  "AI Technology Stack Course",
+    "kind":  "git-repository",
+    "status":  "unknown",
+    "category":  "learning-lab",
+    "description":  "A comprehensive study of modern AI technology stacks, detailing frontend integration, vector databases, backend API endpoints, and LLM providers.",
+    "tags":  [
+                 "learning-lab",
+                 "ai",
+                 "course"
+             ],
+    "priority":  "unset",
+    "owner":  "",
+    "paths":  {
+                  "relative":  "ai_tech_stack_course",
+                  "absolute":  "F:\\learnbydoingwithsteven\\ai_tech_stack_course"
+              },
+    "repo":  {
+                 "hasGit":  true,
+                 "remote":  "https://github.com/learnbydoingwithsteven/ai_tech_stack_course.git"
+             },
+    "stack":  [
+
+              ],
+    "entrypoints":  {
+                        "readme":  "README.md"
+                    },
+    "signals":  {
+                    "hasReadme":  true,
+                    "hasPackageJson":  false,
+                    "hasIndexHtml":  false,
+                    "hasViteConfig":  false,
+                    "hasNextConfig":  false,
+                    "hasPython":  false,
+                    "hasNotebooks":  false
+                },
+    "children":  {
+                     "count":  4,
+                     "immediateProjectSignalCount":  4
+                 },
+    "activity":  {
+                     "lastModifiedLocal":  "2026-05-11T22:40:16",
+                     "inferredActivity":  "hot"
+                 },
+    "notes":  "",
+    "metadata":  {
+                     "generated":  true,
+                     "generatedAt":  "2026-05-23T10:55:25Z",
+                     "generatedBy":  "tools/update_project_metadata.ps1",
+                     "confidence":  "inferred"
+                 }
+}
